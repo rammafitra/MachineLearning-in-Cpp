@@ -1,2 +1,2 @@
-# MachineLearning_in_CPP
+# MachineLearning-in-CPP
 create machine learning algoritma use CPP
